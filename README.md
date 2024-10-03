@@ -33,7 +33,7 @@ The project runs as a scheduled task on a Windows operating system, executing da
 
 1. Clone the repository:
     ```sh
-    git https://github.com/BLibs/Revel_Hourly_Sales_Auto_Report.git
+    git clone https://github.com/BLibs/Revel_Hourly_Sales_Auto_Report.git
     ```
 2. Navigate to the project directory:
     ```sh
