@@ -1,5 +1,8 @@
 # Variables that are used throughout the files that make up this project
 
+# Offset for yesterday in get_data
+DAY_OFFSET = 1
+
 # API Key for making calls for data
 API_KEY = "API key goes here"
 
